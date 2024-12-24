@@ -1,6 +1,6 @@
 "use client";
 import {
-  useMotionValueEvent,
+
   useScroll,
   useTransform,
   motion,
@@ -42,7 +42,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
           🚀 Events and Workshops
         </h2>
         <p className="text-neutral-700 dark:text-neutral-300 text-sm md:text-base max-w-sm">
-          I have actively participated in various tech events, conferences, and workshops, serving as an attendee, organizing committee member, lead, and chief speaker. This page showcases the events I've been involved in.
+          I have actively participated in various tech events, conferences, and workshops, serving as an attendee, organizing committee member, lead, and chief speaker. This page showcases the events I have been involved in.
         </p>
       </div>
 
