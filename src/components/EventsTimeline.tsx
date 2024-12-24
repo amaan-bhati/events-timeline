@@ -258,7 +258,7 @@ export function EventsTimeline() {
               creation, design, logistics, and execution.
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              🌙 Stayed deeply involved in every team’s preparation, holding
+              🌙 Stayed deeply involved in every team&apos;s preparation, holding
               constant night-long meetings and all-nighters for almost a week.
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
@@ -293,7 +293,7 @@ export function EventsTimeline() {
               designs.
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              🌟 Unique Insights: What sets a web developer apart in today’s
+              🌟 Unique Insights: What sets a web developer apart in today&apos;s
               tech ecosystem.
             </div>
           </div>
@@ -321,8 +321,8 @@ export function EventsTimeline() {
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
             🌟 Achieved 2.5K+ registrations and 1,000+ in-person attendees - our most successful event yet.
             </div>
-            <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-            🎉 Featured on university's official Instagram page celebrating the achievement.
+            <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs font-bold md:text-sm">
+            🎉 Featured on university&apos;s official Instagram page celebrating the achievement. <a href="https://www.instagram.com/p/Cw4VVGeLSRr/?igsh=MnBjbnBmN3RiMTd5" className="text-bold text-blue-600 hover:text-blue-400"> Watch here</a>
             </div>
           </div>
 
@@ -340,7 +340,7 @@ export function EventsTimeline() {
           </div>
 
           <p className="text-neutral-800 dark:text-neutral-200 text-xs md:text-sm font-normal mb-4">
-            ✨The Stark Expo wasn’t just an event—it was a movement that 🎇 inspired and empowered participants to explore the vast potential of web development. Its success demonstrated the power of creativity, hard work, and community collaboration.
+            ✨The Stark Expo wasn&apos;t just an event—it was a movement that 🎇 inspired and empowered participants to explore the vast potential of web development. Its success demonstrated the power of creativity, hard work, and community collaboration.
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
