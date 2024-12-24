@@ -51,7 +51,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
             <a href="https://amaanbhati.tech" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Portfolio</a>
             <a href="https://blog.amaanbhati.tech" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Blog</a>
             <a href="https://contact.amaanbhati.tech" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Linktree</a>
-            <a href="https://github.com/amaan8429" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">GitHub</a>
+            <a href="https://github.com/amaan-bhati" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">GitHub</a>
             <a href="https://linkedin.com/in/amaan-bhati" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">LinkedIn</a>
             <a href="https://twitter.com/amaan_bhati_" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Twitter</a>
           </div>
