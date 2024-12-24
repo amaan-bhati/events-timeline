@@ -44,6 +44,18 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
         <p className="text-neutral-700 dark:text-neutral-300 text-sm md:text-base max-w-sm">
           I have actively participated in various tech events, conferences, and workshops, serving as an attendee, organizing committee member, lead, and chief speaker. This page showcases the events I have been involved in.
         </p>
+ 
+        <div className="flex flex-col sm:flex-row flex-wrap gap-2 sm:gap-4">
+          <p className="text-neutral-700 dark:text-neutral-300 text-xs sm:text-sm md:text-base font-bold">Important Links:</p>
+          <div className="flex flex-wrap gap-2 sm:gap-4">
+            <a href="https://amaanbhati.tech" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Portfolio</a>
+            <a href="https://blog.amaanbhati.tech" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Blog</a>
+            <a href="https://contact.amaanbhati.tech" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Linktree</a>
+            <a href="https://github.com/amaan8429" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">GitHub</a>
+            <a href="https://linkedin.com/in/amaan-bhati" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">LinkedIn</a>
+            <a href="https://twitter.com/amaan_bhati_" className="text-blue-500 hover:text-blue-400 text-xs sm:text-sm md:text-base">Twitter</a>
+          </div>
+        </div>
       </div>
 
       <div ref={ref} className="relative max-w-7xl mx-auto pb-20">
